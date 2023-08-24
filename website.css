@@ -1,0 +1,220 @@
+h1{
+    color: black;
+    display: inline;
+    margin-left: 10px;
+    width: 100px;
+}
+
+body{
+    background-color:white;
+    color: black;
+    /* background-image: url("beautiful-sunset-over-sea-on-260nw-1727910565.webp"); */
+    background-repeat: no-repeat;
+    background-size: 300%;
+    
+}
+h2{
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+section{
+    color: black;
+}
+p{
+    color: black;
+    text-align: center;
+}
+ul{
+    text-align: right;
+    margin-right: 150px;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-inline: 25px;
+    
+    
+}
+
+a:link, a:visited{
+background-color: transparent;
+color: black;
+/* border: 1px solid white; */
+padding: 6px;
+text-decoration: none;
+display: block;
+width: 60px;
+text-align: center;
+margin-left: 6px;
+margin-bottom: 10px;
+transition: 0.4s;
+
+
+}
+
+    
+a:hover, a:active{
+    text-decoration: underline;
+    color: red;
+}
+#container{
+    text-align: center;
+    color: black;
+    background-color: transparent;
+    backdrop-filter: blur(4px);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+    
+}
+#firstnamespace label{
+    margin: 10px;
+}
+#firstnamespace input{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#firstspace{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+#lastname{
+    margin: 10px;
+}
+#lastspace{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#emailnamespace label{
+      margin: 10px;
+
+}
+#emailnamespace input{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 18px;
+}
+#phone{
+    margin: 10px;
+    border-radius: 5px;
+}
+#phonespace{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#pass label{
+    margin: 10px;
+}
+#pass input{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#repeatpass label{
+    margin: 5px;
+}
+#repeatpass input{
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    border:1px solid black ;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-right: 40px;
+}
+#registerbutton{
+    padding: 7px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border-radius: 15px;
+    border: none;
+    background-color: brown;
+    margin-left: 90px;
+    transition: 0.5s;
+    
+}
+#registerbutton:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    
+}
+#registerbutton:active{
+    background-color: red;
+    color: black;
+}
+
+
+
+
+
+
+footer{
+    background-color: transparent;
+    outline: 1px solid black;
+    border: none;
+    padding: 10px;
+}
+img{
+    display: inline;
+    margin: 50px;
+    width: 300px;
+    border-radius: 100px;
+    border: 1px solid black;
+    
+}
+#eng li{
+    margin: 10px;
+    
+    
+}
+.boxmodel{
+    background-color: grey;
+    color: white;
+    
+
+}
+#box{
+    background-color: green;
+    padding: 10px;
+    border: 5px solid black;
+    width: 200px;
+    text-align: center;
+    margin-left: 500px;
+    
+
+}
+
