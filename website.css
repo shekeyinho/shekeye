@@ -217,4 +217,23 @@ img{
     
 
 }
-
+@media (min-width: 740px){ 
+    body{
+        width: 100%;
+    }
+}
+@media (min-width: 640px){ 
+    body{
+        width: 100%;
+    }
+}
+@media (min-width: 540px){ 
+    body{
+        width: 100%;
+    }
+}
+@media (min-width: 440px){ 
+    body{
+        width: 100%;
+    }
+}
